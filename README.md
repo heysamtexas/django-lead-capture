@@ -1,5 +1,10 @@
 # django-lead-capture
 
+[![PyPI version](https://badge.fury.io/py/django-lead-capture.svg)](https://pypi.org/project/django-lead-capture/)
+[![Python](https://img.shields.io/pypi/pyversions/django-lead-capture.svg)](https://pypi.org/project/django-lead-capture/)
+[![Django](https://img.shields.io/badge/django-4.2%2B-blue.svg)](https://www.djangoproject.com/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 Django app for creating AI-powered lead capture and "coming soon" landing pages with email collection, verification, and analytics.
 
 ## Features
@@ -220,7 +225,11 @@ MIT License - see LICENSE file for details
 
 ## Contributing
 
-Contributions welcome! Please open an issue or pull request.
+Contributions welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
+- Development setup
+- Release process and PyPI publishing
+- Code standards
+- Testing guidelines
 
 ## Support
 
